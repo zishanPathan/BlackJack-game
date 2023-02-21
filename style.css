@@ -1,0 +1,27 @@
+body{
+    margin:0;
+    padding: 0;
+    text-align: center;
+    background:url('img.jpg');
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    color:goldenrod;
+    font-weight: bold;
+
+}
+p{
+    color: white;
+}
+#massege-el{
+    font-style: italic;
+}
+button{   
+color:#016f32; 
+width: 150px;
+background: goldenrod;
+padding: 5px 0 5px 0;
+font-weight: bold;
+border: none;
+border-radius: 2px;
+}
